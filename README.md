@@ -8,6 +8,7 @@ User-friendly console-based interface
 Randomized computer moves using Python's random module
 Clear game rules and winner determination
 Beginner-friendly code structure
+
 🛠 How It Works
 Run the script in Python.
 Choose one of the three options: STONE, PAPER, or SCISSOR.
@@ -17,8 +18,10 @@ Stone beats Scissors
 Paper beats Stone
 Scissors beat Paper
 The result is displayed, indicating whether you win, lose, or if it's a draw.
+
 📌 Requirements
 Python 3.x
+
 ▶️ Run the Game
 Simply execute the script:
 
@@ -26,9 +29,11 @@ bash
 Copy
 Edit
 python rock_paper_scissors.py
+
 🎯 Future Improvements
 Add a graphical interface (GUI)
 Include score tracking
 Enable multiplayer mode
+
 📌 Contributions are welcome! Feel free to fork and improve the game. 🎉
 
